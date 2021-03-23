@@ -11,6 +11,11 @@ Passcode: 525173
 A. Alaa, M. V. D. Schaar
 *Proposer:* Daniel Kienitz
 
+### 18th of April 2021 9.30 -10.30
+*Paper:* [KoGuN: Accelerating Deep Reinforcement Learning via Integrating Human
+Suboptimal Knowledge](https://www.ijcai.org/Proceedings/2020/0317.pdf)
+*Proposer:* Fazl Barez
+
 ## Rules of the game/ Code of Conduct / Best practices:
 
  1. The reading group members propose a research paper to read and discuss. It can be a paper that interests someone for their own research, but it is advisable that in addition that paper is of broader interest to the group. (lets establish the latter in each case individually using this slack channel) 
