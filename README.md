@@ -11,7 +11,7 @@ Passcode: 525173
 A. Alaa, M. V. D. Schaar
 *Proposer:* Daniel Kienitz
 
-### 15th of April 2021 9.30 -10.30
+### 14th of April 2021 9.00 -10.00
 *Paper:* [KoGuN: Accelerating Deep Reinforcement Learning via Integrating Human
 Suboptimal Knowledge](https://www.ijcai.org/Proceedings/2020/0317.pdf)
 *Proposer:* Fazl Barez
