@@ -3,8 +3,8 @@
 ### The Reading group meeting room: 
 https://zoom.us/j/92295392734?pwd=K2lwNU1LWHdxRGpia0pMcExMcmVwdz09
 
-Meeting ID: 890 2939 2999
-Passcode: 525173
+Meeting ID: 922 9539 2734
+Passcode: 790476
 
 ### 18 March 2021. 9.30 - 10.30.
 *Paper:* [Demystifying Black-box Models with Symbolic Metamodels](https://proceedings.neurips.cc/paper/2019/file/567b8f5f423af15818a068235807edc0-Paper.pdf) by
