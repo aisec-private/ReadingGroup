@@ -1,7 +1,7 @@
 # ReadingGroup for LAIV team and AISEC Project
 
 ### The Reading group meeting room: 
-https://us02web.zoom.us/j/89029392999?pwd=M3krYWF1eWliTDlPMHRoL1AzcG94UT09
+https://zoom.us/j/92295392734?pwd=K2lwNU1LWHdxRGpia0pMcExMcmVwdz09
 
 Meeting ID: 890 2939 2999
 Passcode: 525173
