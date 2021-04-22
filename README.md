@@ -16,7 +16,7 @@ A. Alaa, M. V. D. Schaar
 Suboptimal Knowledge](https://www.ijcai.org/Proceedings/2020/0317.pdf)
 *Proposer:* Fazl Barez
 
-### 28th of April 2021 9.00 -10.00
+### 29th of April 2021 9.00 -10.00
 *Paper:* [Informed Machine Learning – Towards a Taxonomy of
 Explicit Integration of Knowledge into Machine Learning](https://www.researchgate.net/profile/Christian-Bauckhage/publication/332109913_Informed_Machine_Learning_-_Towards_a_Taxonomy_of_Explicit_Integration_of_Knowledge_into_Machine_Learning/links/5caf2f12299bf120975ddaf3/Informed-Machine-Learning-Towards-a-Taxonomy-of-Explicit-Integration-of-Knowledge-into-Machine-Learning.pdf)
 *Task:* How can we extend this to first principles (i.e. Show mathematically how to incorporate rules/constarints in ML pipline?)
