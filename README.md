@@ -16,11 +16,16 @@ A. Alaa, M. V. D. Schaar
 Suboptimal Knowledge](https://www.ijcai.org/Proceedings/2020/0317.pdf)
 *Proposer:* Fazl Barez
 
-### 29th of April 2021 9.00 -10.00
+### 29th of April 2021 9.00 - 10.00
 *Paper:* [Informed Machine Learning – Towards a Taxonomy of
 Explicit Integration of Knowledge into Machine Learning](https://www.researchgate.net/profile/Christian-Bauckhage/publication/332109913_Informed_Machine_Learning_-_Towards_a_Taxonomy_of_Explicit_Integration_of_Knowledge_into_Machine_Learning/links/5caf2f12299bf120975ddaf3/Informed-Machine-Learning-Towards-a-Taxonomy-of-Explicit-Integration-of-Knowledge-into-Machine-Learning.pdf)
 *Task:* How can we extend this to first principles (i.e. Show mathematically how to incorporate rules/constarints in ML pipline?)
 *Proposer:* Fazl Barez
+
+### 06th of May 2021 9.00 - 10.00
+*Paper:* TBA
+*Proposer:* Daniel Kienitz
+
 ## Rules of the game/ Code of Conduct / Best practices:
 
  1. The reading group members propose a research paper to read and discuss. It can be a paper that interests someone for their own research, but it is advisable that in addition that paper is of broader interest to the group. (lets establish the latter in each case individually using this slack channel) 
