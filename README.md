@@ -6,23 +6,23 @@ https://zoom.us/j/92295392734?pwd=K2lwNU1LWHdxRGpia0pMcExMcmVwdz09
 Meeting ID: 922 9539 2734
 Passcode: 790476
 
-### 18 March 2021. 9.30 - 10.30.
+### 18 March 2021. 9.30 - 10.30 GMT
 *Paper:* [Demystifying Black-box Models with Symbolic Metamodels](https://proceedings.neurips.cc/paper/2019/file/567b8f5f423af15818a068235807edc0-Paper.pdf) by
 A. Alaa, M. V. D. Schaar
 *Proposer:* Daniel Kienitz
 
-### 14th of April 2021 9.00 -10.00
+### 14th of April 2021 9.00 -10.00 GMT
 *Paper:* [KoGuN: Accelerating Deep Reinforcement Learning via Integrating Human
 Suboptimal Knowledge](https://www.ijcai.org/Proceedings/2020/0317.pdf)
 *Proposer:* Fazl Barez
 
-### 29th of April 2021 9.00 - 10.00
+### 29th of April 2021 9.00 - 10.00 GMT
 *Paper:* [Informed Machine Learning – Towards a Taxonomy of
 Explicit Integration of Knowledge into Machine Learning](https://www.researchgate.net/profile/Christian-Bauckhage/publication/332109913_Informed_Machine_Learning_-_Towards_a_Taxonomy_of_Explicit_Integration_of_Knowledge_into_Machine_Learning/links/5caf2f12299bf120975ddaf3/Informed-Machine-Learning-Towards-a-Taxonomy-of-Explicit-Integration-of-Knowledge-into-Machine-Learning.pdf)
 *Task:* How can we extend this to first principles (i.e. Show mathematically how to incorporate rules/constarints in ML pipline?)
 *Proposer:* Fazl Barez
 
-### 06th of May 2021 9.00 - 10.00
+### 06th of May 2021 9.00 - 10.00 GMT
 *Paper:* TBA
 *Proposer:* Daniel Kienitz
 
