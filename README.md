@@ -22,9 +22,6 @@ Explicit Integration of Knowledge into Machine Learning](https://www.researchgat
 *Task:* How can we extend this to first principles (i.e. Show mathematically how to incorporate rules/constarints in ML pipline?)
 *Proposer:* Fazl Barez
 
-### 06th of May 2021 9.00 - 10.00 GMT
-*Paper:* TBA
-*Proposer:* Daniel Kienitz
 
 ## Rules of the game/ Code of Conduct / Best practices:
 
